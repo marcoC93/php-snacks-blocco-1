@@ -8,12 +8,36 @@
         <?php
         $matches = [
             'Partita 1'[
-                'home' = 'Milano',
-                'visitors' = 'Napoli',
-                'home-score' = 50,
-                'visitors-score' = 50,
-            ]
-        ]
+                'home' => 'Milano',
+                'visitors' => 'Napoli',
+                'home-score' => 50,
+                'visitors-score' => 50,
+            ],
+            'Partita 1'[
+                'home' => 'Milano',
+                'visitors' => 'Napoli',
+                'home-score' => 50,
+                'visitors-score' => 50,
+            ],
+            'Partita 1'[
+                'home' => 'Milano',
+                'visitors' => 'Napoli',
+                'home-score' => 50,
+                'visitors-score' => 50,
+            ],
+            'Partita 1'[
+                'home' => 'Milano',
+                'visitors' => 'Napoli',
+                'home-score' => 50,
+                'visitors-score' => 50,
+            ],
+            'Partita 1'[
+                'home' => 'Milano',
+                'visitors' => 'Napoli',
+                'home-score' => 50,
+                'visitors-score' => 50,
+            ],
+        ];
           ?>
 
           <p><?php echo var_dump($matches)  ?></p>
